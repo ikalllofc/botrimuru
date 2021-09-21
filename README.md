@@ -5,7 +5,7 @@ Dan module harus lengkap biar bisa run otomatis
 
 ```
 ## Deploy Button!
-
+https://www.heroku.com/deploy/?template=https://github.com/HanifFarhanN/scbotbyrimuru13
 
 ## CARA INSTALL
 
