@@ -1,4 +1,4 @@
 const promosi1 = () => { 
-	return `[ KUY TEMENAN BARENG GUA: https://instabio.cc/3091914JyLqsl ]`
+	return `[ KUY MASUK GC BOTZ : https://chat.whatsapp.com/J9WAPnCqe9UAwnnMi6AJUj ]`
 }
 exports.promosi1 = promosi1
