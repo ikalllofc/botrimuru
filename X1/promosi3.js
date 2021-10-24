@@ -1,4 +1,4 @@
 const promosi3 = () => { 
-	return `[ SUBREK:Hanif Farhan N ]`
+	return `[ FOLLOW GITHUB AKU : https://github.com/ikalllofc ]`
 }
 exports.promosi3 = promosi3
